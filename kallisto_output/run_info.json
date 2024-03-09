@@ -1,0 +1,13 @@
+{
+	"n_targets": 205792,
+	"n_bootstraps": 0,
+	"n_processed": 35451428,
+	"n_pseudoaligned": 31601238,
+	"n_unique": 4908940,
+	"p_pseudoaligned": 89.1,
+	"p_unique": 13.8,
+	"kallisto_version": "0.48.0",
+	"index_version": 10,
+	"start_time": "Fri Mar  8 18:57:17 2024",
+	"call": "kallisto quant -i index_files/kallisto_index/index.idx -o kallisto_output ENCFF765REV.fastq.gz ENCFF339UJI.fastq.gz"
+}

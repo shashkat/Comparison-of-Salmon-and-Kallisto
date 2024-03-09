@@ -1,0 +1,10 @@
+{
+    "salmon_version": "1.10.2",
+    "index": "index_files/salmon_index",
+    "libType": "A",
+    "mates1": "ENCFF765REV.fastq.gz",
+    "mates2": "ENCFF339UJI.fastq.gz",
+    "validateMappings": [],
+    "output": "salmon_output",
+    "auxDir": "aux_info"
+}

@@ -1,0 +1,1 @@
+~~- the fastq i had downloaded turns out to be of mouse. I need to create the salmon or kallisto indices using mouse reference transcriptomes or find another fastq file, which is infact from human. I will probably do the latter.~~
